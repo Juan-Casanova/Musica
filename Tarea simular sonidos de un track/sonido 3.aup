@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="sonido 3_data" version="1.3.0" audacityversion="2.3.0" sel0="3.0273015873" sel1="3.1476417234" vpos="0" h="0.0000000000" zoom="344.5312500000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Juan Casanova"/>
+		<tag name="TITLE" value="Sonido3"/>
+		<tag name="COMMENTS" value="el primero es el que se quiere imitar el segundo es el que se va editar y el tercero es el resultado"/>
+		<tag name="ALBUM" value="Restructuracion de sonido"/>
+		<tag name="YEAR" value="2019"/>
+		<tag name="TRACKNUMBER" value="1"/>
+		<tag name="GENRE" value="SoundTrack"/>
+	</tags>
+	<wavetrack name="Track-mario-bross" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10114">
+				<waveblock start="0">
+					<simpleblockfile filename="e080876f.au" len="10114" min="-0.098641" max="0.281291" rms="0.111826"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.50349206" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6144">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c4b.au" len="6144" min="-0.244428" max="0.396391" rms="0.150966"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="3.02730159" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5307">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808660.au" len="5307" min="-0.262808" max="0.396583" rms="0.153457"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Track-mario-bross" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10114">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808242.au" len="10114" min="-0.098641" max="0.281286" rms="0.111826"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="1.50349206" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="6144">
+				<waveblock start="0">
+					<simpleblockfile filename="e080805b.au" len="6144" min="-0.24443" max="0.39639" rms="0.150966"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="3.02730159" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5307">
+				<waveblock start="0">
+					<simpleblockfile filename="e080857e.au" len="5307" min="-0.262796" max="0.396583" rms="0.153457"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
